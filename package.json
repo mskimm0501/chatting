@@ -1,0 +1,23 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskimm0501/chatting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mskimm0501/chatting/issues"
+  },
+  "homepage": "https://github.com/mskimm0501/chatting#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.1.1"
+  }
+}
